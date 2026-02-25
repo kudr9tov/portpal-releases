@@ -3,6 +3,14 @@
     <channel>
         <title>PortPal</title>
         <item>
+            <title>1.3.2</title>
+            <pubDate>Wed, 25 Feb 2026 20:00:00 +0100</pubDate>
+            <sparkle:version>1.3.2</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/kudr9tov/portpal-releases/releases/download/v1.3.2/PortPal.dmg" length="2141693" type="application/octet-stream" sparkle:edSignature="o+dCnJSMZ/iXDhwX2LazgRKyTjJGgRktK+bPnBrUnQamYcfgYbW5OFkY3IjJOiFJzw5yCTeZH+2duRFdGb0FDw=="/>
+        </item>
+        <item>
             <title>1.3.1</title>
             <pubDate>Wed, 25 Feb 2026 19:30:00 +0100</pubDate>
             <sparkle:version>1.3.1</sparkle:version>
