@@ -3,6 +3,14 @@
     <channel>
         <title>PortPal</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Wed, 25 Feb 2026 09:34:19 +0100</pubDate>
+            <sparkle:version>1.2.0</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/kudr9tov/portpal-releases/releases/download/v1.2.0/PortPal.dmg" length="2216915" type="application/octet-stream" sparkle:edSignature="ZJjploKb6CuxootLZ3NqseHdm6PK7CY84PoTkXOal9i1Mb1vcneBDGOA7nrj18DXiP0h2RksJ2g2hPrxrLWfBg=="/>
+        </item>
+        <item>
             <title>1.1.3</title>
             <pubDate>Wed, 25 Feb 2026 09:34:19 +0100</pubDate>
             <sparkle:version>1.1.3</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/kudr9tov/portpal-releases/releases/download/v1.1.2/PortPal.dmg" length="1874956" type="application/octet-stream" sparkle:edSignature="/UdxGX23+Fi7dWNROqP5Csaz3SMCkNDefi51qwEAUDlIWob0943nBS7ZtSMfonVPvmaHgy/lA/LFmwEUyREaAw=="/>
-        </item>
-        <item>
-            <title>1.1.1</title>
-            <pubDate>Wed, 25 Feb 2026 09:07:27 +0100</pubDate>
-            <sparkle:version>1.1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kudr9tov/portpal-releases/releases/download/v1.1.1/PortPal.dmg" length="1874353" type="application/octet-stream" sparkle:edSignature="WWk+anAVfNO6YTZXmC3uDBWibeUeEVcUy/JnhnYwcerJYcxK2Y+vNGBQO0lMMLB/kcLWqcDeSTQAgQcjOScJDQ=="/>
         </item>
     </channel>
 </rss>
